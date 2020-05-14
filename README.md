@@ -1,5 +1,5 @@
 # ArmThumbSimulator
-ARM Thumb Simulator Implemented in JavaScript &amp; AngluarJS 🖥 👍 (2015)
+ARM Thumb Simulator Implemented in JavaScript &amp; AngluarJS 🖥 👍 (2015).
 
 Features:
 1. Assembler directives
